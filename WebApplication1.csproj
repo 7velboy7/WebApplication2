@@ -24,6 +24,7 @@
 
   <ItemGroup>
     <ProjectReference Include="DataAccesLayer\DataAccessLayer.csproj" />
+    <ProjectReference Include="DataAccessLayer.csproj" />
   </ItemGroup>
 
   <ItemGroup>
